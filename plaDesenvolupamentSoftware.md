@@ -16,13 +16,13 @@
 
 ### UAW
 
-![](http://i.imgur.com/ZLAxufn.jpg)
+![](http://i.imgur.com/hLh8s5T.jpg)
 
 Els actors que interactuen amb el nostre sistema són, d’una banda, els usuaris i l’administrador, i d’altra banda, Google Maps i els servidors que accedeixen a la base de dades.
 
 ### UUCW
 
-![](http://i.imgur.com/v7PssZR.jpg)
+![](http://i.imgur.com/imW8hWR.jpg)
 
 Considerem que els casos d’ús que interaccionen amb els servidors o amb Google Maps tenen entre tres i set esdeveniments externs i, per tant, la seva complexitat és mitjana. Pel que fa a la resta, entenem que són simples, ja que tenen com a precondició haver cridat prèviament a un cas d’ús de complexitat mitjana que demani la informació que necessiten als servidors.
 
@@ -34,13 +34,13 @@ Hem assignat una determinada prioritat a cadascuna de les complexitats tècnique
 
 ### ECF
 
-![](http://i.imgur.com/dQ0oNRb.jpg)
+![](http://i.imgur.com/tUBfwMj.jpg)
 
 El factor d’entorn que creiem que pot influir més negativament en el projecte és la poca familiaritat que tenim amb UP. Quant a la dificultat dels llenguatges de programació o al fet de treballar a temps parcial, suposem que no afectarà gaire perquè altres factors com ara bé l’experiència en l’orientació a objectes o la motivació de l’equip de treball tindran una influència molt positiva.
 
 ### UCP i estimació del temps
 
-![](http://i.imgur.com/Uunu7A0.jpg)
+![](http://i.imgur.com/vSBWBgM.jpg)
 
 A partir del càlcul del UCP i d’un factor PF al qual li hem assignat un valor de 20 perquè no tenim experiència en projectes similars i anteriors a aquest, podem estimar que el nostre projecte ens suposarà un total de 3426 hores de dedicació.
 
